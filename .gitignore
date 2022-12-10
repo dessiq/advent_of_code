@@ -1,0 +1,14 @@
+### Maven Build:
+target
+
+### IDEA Build:
+out
+
+### Skip IDEA Project Files except shared code style and inspections settings:
+*.iml
+**/.idea/*
+
+
+
+### Test execution output directory
+test-output
